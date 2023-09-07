@@ -9,7 +9,6 @@ PACKAGES = [
 REQUIREMENTS = [
     'Django',
     'django-payments',
-    'authorizenet',
     'authorizenet-pyxb-new',
     'requests',
 ]
